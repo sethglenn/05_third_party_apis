@@ -17,4 +17,4 @@
 
 ## Links
 
-https://sethglenn.github.io/04_code_quiz/04_code_quiz/
+https://sethglenn.github.io/05_third_party_apis/05_third_party_apis/
